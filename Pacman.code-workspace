@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Arduino/Pacman"
+		},
+		{
+			"name": "Pacman_joystick",
+			"path": "Pacman_joystick"
+		}
+	],
+	"settings": {}
+}
